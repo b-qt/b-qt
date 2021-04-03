@@ -3,7 +3,7 @@
 I'm Brenda. I'm a Data Scientist and MSc student somewhere in Spain 🇪🇦.  
 I'm interested in **Data Art** , **Visualization** and **Analysis** because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
 
-While you are here, take a look at my _work_👉 [📕](https://lagom-qb.github.io)   
+While you are here, take a look at my _work_ 👉 [📕](https://lagom-qb.github.io)   
 
 Outside of Data Science, I enjoy:
   - Walks 🥾 📸
