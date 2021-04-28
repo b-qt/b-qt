@@ -13,7 +13,7 @@ Outside of Data Science, I enjoy:
  
 I have a BSc in Information Communication Technology from the ICT University.   
 After my BSc, I did a 3 months internship in the Banking and Finance sector and got interested in Big Data thinking it would be a fine cross between _design_ and _tech_.   
-So I went in for an MSc in Data Science. During the MSc, I got wind of Data Art and Data Visualization and _hurray_🎊
+So I went in for an MSc in Data Science. During the MSc, I got wind of Data Art and Data Visualization and _hurray_ 🎊
 
 I do 🌱:  
   * Data Analysis and Manipulation
