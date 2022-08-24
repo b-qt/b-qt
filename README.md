@@ -26,7 +26,7 @@ I'm interested in 🤔:
   * Data Analysis
   
 I also prototype on various sandboxes 💻 :   
-  * [Intersection Observer JS](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js)
+  * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
 
   You can always 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
 
