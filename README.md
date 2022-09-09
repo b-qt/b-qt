@@ -1,15 +1,16 @@
 ### Hello there 👋
 
-I'm Brenda. I'm a Data Scientist and MSc student somewhere in Spain 🇪🇦.  
+I'm Brenda. I'm a Data Scientist and Web Developer somewhere 🇪🇦.  
 I'm interested in **Data Art** , **Visualization** and **Analysis** because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
 
-While you are here, take a look at my [📕_work_](https://portfolio-qb.vercel.app/)  
+While you are here, take a look at my [👩‍💻work](https://portfolio-qb.vercel.app/) or [🎨work](https://qb-3d.netlify.app)  
 
-Outside of Data Science, I enjoy:
+Outside of my Data Science and Developement projects, I enjoy:
   - Walks 🥾 📸
   - Novels 📖 and Movies 🎞️
   - Drawing 🖋️
   - Novelties 🎊
+  - Diving and Surfing 🌊    
  
 I have a BSc in Information Communication Technology from the ICT University.   
 After my BSc, I did a 3 months internship in the Banking and Finance sector and got interested in Big Data thinking it would be a fine cross between _design_ and _tech_.   
@@ -24,6 +25,8 @@ I do 🌱:
 I'm interested in 🤔:
   * Information Design and Data Journalism 🔭
   * Data Analysis
+  * WebGl
+  * 3D Modelling and Design
   
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
