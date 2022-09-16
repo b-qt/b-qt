@@ -14,12 +14,14 @@ Outside of my Data Science and Developement projects, I enjoy:
  
 I have a BSc in Information Communication Technology from the ICT University.   
 After my BSc, I did a 3 months internship in the Banking and Finance sector and got interested in Big Data thinking it would be a fine cross between _design_ and _tech_.   
-So I went in for an MSc in Data Science. During the MSc, I got wind of Data Art and Data Visualization and _hurray_ 🎊
+So I went in for an MSc in Data Science. During the MSc, I got wind of Data Art and Data Visualization and _hurray_ 🎊    
+Then, I went in for another MSc in FrontEnd Developement to get better at design and _Chef's kiss_ 🥳
 
 I do 🌱:  
   * Data Analysis and Manipulation
   * Data Visualization
   * Data Modelling
+  * UI Developement
   * Front-End Developement
 
 I'm interested in 🤔:
@@ -27,6 +29,7 @@ I'm interested in 🤔:
   * Data Analysis
   * WebGl
   * 3D Modelling and Design
+  * UI design
   
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
