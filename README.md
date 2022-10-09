@@ -34,6 +34,7 @@ I'm interested in 🤔:
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
   * [Custom Edges](https://codesandbox.io/s/react-flow-custom-nodes-3tejtp?file=/src/Components/Flow.jsx) in React Flow
+  * [Puzzle Game](https://codesandbox.io/s/puzzle-h72q0x?file=/src/GameComponent/game-minimal.js) in ReactJS
 
   You can always 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
 
