@@ -37,6 +37,7 @@ I also prototype on various sandboxes 💻 :
 
 
 You can look at my tableau projects [here](https://public.tableau.com/profile/quinsy.brenda#!/).  
+... and my projects on observable [here](https://observablehq.com/@lagom-qb).
 
 
   You can always 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
