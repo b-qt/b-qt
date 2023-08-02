@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Brenda. I'm a Data Scientist and Web Developer somewhere 🇪🇦.  
+I'm Brenda. I'm a Data Scientist and Web Developer somewhere 🇨🇲🇪🇦.  
 I'm interested in **Data Art** , **Visualization** and **Analysis** because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
 
 While you are here, take a look at my [👩‍💻Data Projects](https://portfolio-qb.vercel.app/) or [🎨 FrontEnd Projects](https://qb-3d.netlify.app)  
