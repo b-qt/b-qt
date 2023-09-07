@@ -5,11 +5,10 @@ I'm a Data Scientist and Web Developer 🇨🇲🇪🇦.
 I'm interested in **Data Art** , **Visualization** and **Analysis** because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
 
 Outside of my Data Science and Developement projects, I enjoy:
-  - Walks 🥾 📸
+  - Hikes and Heights 🥾 📸
   - Novels 📖 and Movies 🎞️
-  - Drawing 🖋️
-  - Novelties 🎊
-  - Diving and Surfing 🌊    
+  - Art 🖋️🎊
+  - Snorkeling and Surfing 🌊    
  
 I have a BSc in Information Communication Technology from the ICT University.   
 After my BSc, I did a 3 months internship in the Banking and Finance sector and got interested in Big Data thinking it would be a fine cross between _design_ and _tech_.   
