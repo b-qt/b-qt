@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-I'm Brenda. I'm a Data Scientist and Web Developer 🇨🇲🇪🇦.  
+I'm Brenda. 
+I'm a Data Scientist and Web Developer 🇨🇲🇪🇦.  
 I'm interested in **Data Art** , **Visualization** and **Analysis** because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
 
 Outside of my Data Science and Developement projects, I enjoy:
