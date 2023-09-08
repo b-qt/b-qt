@@ -6,7 +6,7 @@ I'm interested in:
 - **Data Art**   
 - **Visualization**    
 - **Analysis**   
-... because everything therein depends on _perspective_ and it's fun to see how many different perspectives do exist.  
+... because it's fun to see many different perspectives.
 
 Outside of my Data Science and Developement projects, I enjoy:
   - Hikes and Heights 🥾 📸
