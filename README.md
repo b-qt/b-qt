@@ -37,9 +37,9 @@ I'm interested in 🤔:
   
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
-  * [Custom Edges](https://codesandbox.io/s/react-flow-custom-nodes-3tejtp?file=/src/Components/Flow.jsx) in React Flow   
-
-And ... I had fun working with _ontology data_ 🤯 check it out 👉 [here](https://lagom-qb.github.io/Fraud-Detection/intro.html)
+  * [Custom Edges](https://codesandbox.io/s/react-flow-custom-nodes-3tejtp?file=/src/Components/Flow.jsx) in React Flow
+  * I had fun working with _ontology data_ 🤯 check it out 👉 [here](https://lagom-qb.github.io/Fraud-Detection/intro.html)
+  * [3dScene 1](https://lagom-qb.github.io/3dScene/)
 
 
 You can look at my tableau projects [here](https://public.tableau.com/profile/quinsy.brenda#!/).  
