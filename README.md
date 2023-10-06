@@ -3,9 +3,9 @@
 I'm Brenda.   
 I'm a Data Scientist and Web Developer 🇨🇲🇪🇦.  
 I'm interested in:   
-- **Data Art**   
-- **Visualization**    
-- **Analysis**   
+- **Data Art**
+- **Visualization** ![Tableau](https://img.shields.io/badge/Tableau-blue) ![D3.js](https://img.shields.io/badge/D3.js-blue)    
+- **Analysis** ![Python](https://img.shields.io/badge/Python-pink) ![Excel](https://img.shields.io/badge/Excel-pink)     
 ... because it's fun to see many different perspectives.
 
 Outside of my Data Science and Developement projects, I enjoy:
