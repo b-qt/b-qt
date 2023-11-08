@@ -4,8 +4,8 @@ I'm Brenda.
 I'm a Data Scientist and Web Developer 🇨🇲🇪🇦.  
 I'm interested in:   
 - **Data Art**
-- **Visualization** ![Tableau](https://img.shields.io/badge/Tableau-blue) ![D3.js](https://img.shields.io/badge/D3.js-blue)    
-- **Analysis** ![Python](https://img.shields.io/badge/Python-pink) ![Excel](https://img.shields.io/badge/Excel-pink)     
+- **Visualization** ![Tableau](https://img.shields.io/badge/Tableau-blue) ![D3.js](https://img.shields.io/badge/D3.js-blue) ![Data Wrapper](https://img.shields.io/badge/DataWrapper-blue) ![Infogram](https://img.shields.io/badge/Infogram-blue)   
+- **Analysis** ![Python](https://img.shields.io/badge/Python-pink) ![Excel](https://img.shields.io/badge/Excel-pink) ![D3.js](https://img.shields.io/badge/D3.js-pink)   
 ... because it's fun to see many different perspectives.
 
 Outside of my Data Science and Developement projects, I enjoy:
@@ -22,18 +22,17 @@ Then, I went in for another MSc in FrontEnd Developement to get better at design
 While you are here, take a look at my [👩‍💻Data Projects](https://portfolio-qb.vercel.app/) or [🎨 FrontEnd Projects](https://qb-3d.netlify.app)  
 
 I do 🌱:  
-  * Data Analysis and Manipulation
+  * Data Analysis
   * Data Visualization
-  * Data Modelling
+  * Data Engineering
   * UI Developement
   * Front-End Developement
 
 I'm interested in 🤔:
-  * Information Design and Data Journalism 🔭
   * Data Analysis
+  * Data Engineering
   * WebGl
   * 3D Modelling and Design
-  * UI design
   
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
@@ -42,10 +41,12 @@ I also prototype on various sandboxes 💻 :
   * [3dScene 1](https://lagom-qb.github.io/3dScene/)
 
 
-You can look at my tableau projects [here](https://public.tableau.com/profile/quinsy.brenda#!/).  
-... and my projects on observable [here](https://observablehq.com/@lagom-qb).
+You can look at my [tableau projects here](https://public.tableau.com/profile/quinsy.brenda#!/).  
+... and my projects on [observable here](https://observablehq.com/@lagom-qb).
 
+In November 2023, I started writing.
+  * [Infogr8 article on tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/) 08.11 
 
-  You can always 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
+  You can 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
 
 👯 BTW I’m also looking to collaborate on short-term social projects.
