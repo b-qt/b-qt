@@ -36,9 +36,8 @@ I'm interested in 🤔:
   
 I also prototype on various sandboxes 💻 :   
   * [Intersection Observer](https://codesandbox.io/s/intersection-observer-framer-motion-gl42y2?file=/src/index.js) in ReactJS
-  * [Custom Edges](https://codesandbox.io/s/react-flow-custom-nodes-3tejtp?file=/src/Components/Flow.jsx) in React Flow
-  * I had fun working with _ontology data_ 🤯 check it out 👉 [here](https://lagom-qb.github.io/Fraud-Detection/intro.html)
-  * [3dScene 1](https://lagom-qb.github.io/3dScene/)
+  * I had fun working with _ontology data_ and was 🤯 [here](https://lagom-qb.github.io/Fraud-Detection/intro.html)
+  * [3dScene Pokeball Thingie](https://lagom-qb.github.io/3dScene/)
 
 
 You can look at my [tableau projects here](https://public.tableau.com/profile/quinsy.brenda#!/).  
@@ -47,6 +46,6 @@ You can look at my [tableau projects here](https://public.tableau.com/profile/qu
 In November 2023, I started writing.
   * [Infogr8 article on tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/) 08.11 
 
-  You can 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://drive.google.com/file/d/1Ek4xPBiWYX0lY--kaioftkw31bRd7zH3/view?usp=sharing) to work on a project or just for a lovely chat.
+  You can 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://docs.google.com/document/d/1rHF9BXt3ioYu7yBC-xUaLKfI34axya82HZpI3qb3EQc/edit?usp=sharing) to work on a project or just for a lovely chat.
 
 👯 BTW I’m also looking to collaborate on short-term social projects.
