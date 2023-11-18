@@ -58,6 +58,4 @@ In November 2023, I started writing.
 |---|---|---|
 |Infogr8| A look at code and no-code [tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/)| 08.11.23|
 
-  You can 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://docs.google.com/document/d/1rHF9BXt3ioYu7yBC-xUaLKfI34axya82HZpI3qb3EQc/edit?usp=sharing) to work on a project or just for a lovely chat.
-
-👯 BTW I’m looking to collaborate on short-term social projects.
+  You can 📫 [reach me](mailto:tebid.qb@gmail.com) or 📜[portfolio](https://docs.google.com/document/d/1rHF9BXt3ioYu7yBC-xUaLKfI34axya82HZpI3qb3EQc/edit?usp=sharing) to work on a project or just for a lovely chat.👯
