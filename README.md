@@ -34,10 +34,11 @@ While you are here, take a look at my [👩‍💻Data Projects](https://portfol
 ## Data Engineering
 |Project| Project Description| Project Link|
 |---|---|---|
-|La Liga | The goal of this project is to develop skills in data integration, ETL (Extract, Transform, Load) processes, and data transformation using a sports dataset. The project will focus on collecting, cleaning, transforming, and loading sports-related data into a target repository for analysis and reporting purposes.
-Because the dataset concerns data on the top 5 European leagues and this data seems to be alot at first glance, I'm going to narrow it down by working on data on the *Liga Feminina* for Spain. | [![Project](https://mybinder.org/badge_logo.svg)](https://github.com/lagom-QB/Data-Engineering/tree/main)[![Project](https://mybinder.org/badge_logo.svg)](https://la-liga.streamlit.app/)
+|La Liga | The goal of this project is to develop skills in data integration, ETL (Extract, Transform, Load) processes, and data transformation using a sports dataset. The project will focus on collecting, cleaning, transforming, and loading sports-related data into a target repository for analysis and reporting purposes.Because the dataset concerns data on the top 5 European leagues and this data seems to be alot at first glance, I'm going to narrow it down by working on data on the *Liga Feminina* for Spain. | [![GithubLink](https://img.shields.io/badge/ProjectPage-purple)](https://github.com/lagom-QB/Data-Engineering/tree/main)[![StreamLit](https://img.shields.io/badge/StreamLit-purple)](https://la-liga.streamlit.app/)
 
-or [🎨 FrontEnd Projects](https://qb-3d.netlify.app)  
+---
+
+## [🎨 FrontEnd Projects](https://qb-3d.netlify.app)  
 |Project|Link|Tools 💻|
 |---|---|---|
 |3D Pokeball Portfolio Scene| [Scene Link](https://lagom-qb.github.io/3dScene/)|![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) |
