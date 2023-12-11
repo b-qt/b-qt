@@ -28,7 +28,8 @@ While you are here, take a look at my [👩‍💻Data Projects](https://portfol
 ## Data Engineering
 |Project| Project Description| Project Link|
 |---|---|---|
-|La Liga | The goal of this project is to develop skills in data integration, ETL (Extract, Transform, Load) processes, and data transformation using a sports dataset. The project will focus on collecting, cleaning, transforming, and loading sports-related data into a target repository for analysis and reporting purposes.Because the dataset concerns data on the top 5 European leagues and this data seems to be alot at first glance, I'm going to narrow it down by working on data on the *Liga Feminina* for Spain. | [![GithubLink](https://img.shields.io/badge/ProjectPage-purple)](https://github.com/lagom-QB/Data-Engineering/tree/main)[![StreamLit](https://img.shields.io/badge/StreamLit-purple)](https://la-liga.streamlit.app/)
+|La Liga | The goal of this project is to develop skills in data integration, ETL (Extract, Transform, Load) processes, and data transformation using a sports dataset. The project will focus on collecting, cleaning, transforming, and loading sports-related data into a target repository for analysis and reporting purposes.Because the dataset concerns data on the top 5 European leagues and this data seems to be alot at first glance, I'm going to narrow it down by working on data on the *Liga Feminina* for Spain. | [![GithubLink](https://img.shields.io/badge/ProjectPage-purple)](https://github.com/lagom-QB/Data-Engineering)[![StreamLit](https://img.shields.io/badge/StreamLit-purple)](https://la-liga.streamlit.app/)|
+|Customer Insights with Amazon Reviews|This project involves analysing and understanding the emotion expressed in text data; determining the overall sentiment of a piece of text from amazon reviews.|[![Article Link](https://img.shields.io/badge/Article-purple)](https://dev.to/lagomqb/analysis-of-a-reviews-dataset-15lc)<br/>[![StreamLit](https://img.shields.io/badge/StreamLit-purple)](https://amazonreviews-prediction.streamlit.app/)[![GithubLink](https://img.shields.io/badge/ProjectPage-purple)](https://github.com/lagom-QB/AmazonReviews)<br/>|
 
 ---
 
@@ -58,5 +59,6 @@ In November 2023, I started writing.
 |Company|Topic Description| Date|
 |---|---|---|
 |Infogr8| A look at code and no-code [tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/)| 08.11.23|
+|Dev.to|Explecation of thought process for [amazon reviews analysis](https://dev.to/lagomqb/analysis-of-a-reviews-dataset-15lc)|11.12.23|
 
   You can 📫 [reach me](mailto:tebid.qb@gmail.com) to work on a project or just for a lovely chat.👯
