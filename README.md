@@ -17,10 +17,10 @@ While you are here, take a look at my [👩‍💻Data Projects](https://portfol
 ## Data Analysis
 |Project| Project Description | Project Link|
 |---|---|---|
-|🥾🏖️ Hitch Hiker's travel guide| Data analysis to explore data taken from Numeo to better understand what travelers should consider when travelling in order to make better financial decisions | [![Project](https://img.shields.io/badge/Project-green)](https://lagom-qb.github.io/Hitch-Hiker-s-Travel-Guide/)|
-|Reddit r/technews| A javascript realtime word analysis of data pulled using the reddit api from the r/technews subreddit for the current month, Looking at how often posts are reposted and what the population is talking about currently | [![Project](https://img.shields.io/badge/Project-green)](https://lagom-qb.github.io/technews/)|
-|Depression Anxiety Stress Scale | I chose to look at these 3 mental illnesses which in my opinion are the silent killers some people seem to not take seriously enough: Anxiety, Depression, Stress. The data used was collected for a while up to and including 2018 and its demographics are explained in the “cookbook”. The goal here is to gain and provide more insights to silent killers like Depression, Anxiety and Stress and to represent this data in a way which is more engaging is important to those affected and those susceptible so they know how to identify, deal with their situations and when to throw in the towel to ask for help.|[![Project](https://img.shields.io/badge/Project-green)](https://lagom-qb.github.io/dv_dass/progress)|
-|Dear Abby|The goal of this exercise is to analyze and visualize trends in data sent over the years to cable network "Dear Abby" and to view trends and changes in topics of conversation.|[![Project](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lagom-QB/Dear-Abby/HEAD)|
+|🥾🏖️ Hitch Hiker's travel guide| Data analysis to explore data taken from Numeo to better understand what travelers should consider when travelling in order to make better financial decisions | [![Project](https://img.shields.io/badge/Project-green)](https://b-qt.github.io/Hitch-Hiker-s-Travel-Guide/)|
+|Reddit r/technews| A javascript realtime word analysis of data pulled using the reddit api from the r/technews subreddit for the current month, Looking at how often posts are reposted and what the population is talking about currently | [![Project](https://img.shields.io/badge/Project-green)](https://b-qt.github.io/technews/)|
+|Depression Anxiety Stress Scale | I chose to look at these 3 mental illnesses which in my opinion are the silent killers some people seem to not take seriously enough: Anxiety, Depression, Stress. The data used was collected for a while up to and including 2018 and its demographics are explained in the “cookbook”. The goal here is to gain and provide more insights to silent killers like Depression, Anxiety and Stress and to represent this data in a way which is more engaging is important to those affected and those susceptible so they know how to identify, deal with their situations and when to throw in the towel to ask for help.|[![Project](https://img.shields.io/badge/Project-green)](https://b-qt.github.io/dv_dass/progress)|
+|Dear Abby|The goal of this exercise is to analyze and visualize trends in data sent over the years to cable network "Dear Abby" and to view trends and changes in topics of conversation.|[![Project](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-qt/Dear-Abby/HEAD)|
 
 
 ## Data Engineering
@@ -32,7 +32,7 @@ While you are here, take a look at my [👩‍💻Data Projects](https://portfol
 ## [🎨 FrontEnd Projects](https://qb-3d.netlify.app)  
 |Project|Link|Tools 💻|
 |---|---|---|
-|3D Pokeball Portfolio Scene| [Scene Link](https://lagom-qb.github.io/3dScene/)|![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) |
+|3D Pokeball Portfolio Scene| [Scene Link](https://b-qt.github.io/3dScene/)|![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) |
 |3D Mouse tracking Portfolio Scene | [Scene Link](https://qb-3d.netlify.app/)| ![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) ![ThreeJS](https://img.shields.io/badge/ThreeJS-grey)|
 
 
@@ -49,7 +49,7 @@ Outside of my Data Science and Developement projects, I enjoy:
   - Snorkeling and Surfing 🌊
 
 You can look at my [tableau projects here](https://public.tableau.com/profile/quinsy.brenda#!/).  
-... and my projects on [observable here](https://observablehq.com/@lagom-qb).
+... and my projects on [observable here](https://observablehq.com/@b-qt).
 
 In November 2023, I started writing.
 |Company|Topic Description| Date|
