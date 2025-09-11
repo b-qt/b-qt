@@ -36,6 +36,7 @@ While you are here, take a look at my [👩‍💻Data Projects](https://portfol
 |---|---|---|
 |3D Pokeball Portfolio Scene| [Scene Link](https://b-qt.github.io/3dScene/)|![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) |
 |3D Mouse tracking Portfolio Scene | [Scene Link](https://qb-3d.netlify.app/)| ![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) ![ThreeJS](https://img.shields.io/badge/ThreeJS-grey)|
+|3D Spotify music app | [Scene Link](https://b-qt.github.io/listening-spotlight/) | ![Reactjs](https://img.shields.io/badge/Reactjs-grey) ![Blender3D](https://img.shields.io/badge/Blender3D-grey) ![ThreeJS](https://img.shields.io/badge/ThreeJS-grey) ![Python](https://img.shields.io/badge/Python-grey)|
 
 
 I do 🌱:  
