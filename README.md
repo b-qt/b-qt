@@ -13,7 +13,6 @@ After my BSc, I did an internship in the Banking and Finance sector and got inte
 So I went in for an MSc in Data Science. During the MSc, I got wind of Data Art and Data Visualization and _hurray_ 🎊    
 Then, I went in for another MSc in FrontEnd Developement to get better at design and _Chef's kiss_ 🥳
 
-While you are here, take a look at my [👩‍💻Data Projects](https://portfolio-qb.vercel.app/)   
 ## Data Analysis
 |Project| Project Description | Project Link|
 |---|---|---|
