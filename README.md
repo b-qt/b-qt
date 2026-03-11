@@ -25,7 +25,7 @@ Then, I went in for another MSc in FrontEnd Developement to get better at design
 ## Data Engineering
 |Project| Project Description| Project Link|
 |---|---|---|
-|Customer Insights with Amazon Reviews|This project involves analysing and understanding the emotion expressed in text data; determining the overall sentiment of a piece of text from amazon reviews.|[![Article Link](https://img.shields.io/badge/Article-purple)](https://dev.to/lagomqb/analysis-of-a-reviews-dataset-15lc)|
+|Customer Insights with Amazon Reviews|This project involves analysing and understanding the emotion expressed in text data; determining the overall sentiment of a piece of text from amazon reviews.|[![Article Link](https://img.shields.io/badge/Article-purple)](https://dev.to/b-qt/analysis-of-a-reviews-dataset-15lc)|
 |Iberian Pulse |An automated pipeline that scrapes Spanish-language news headlines about Spain, assesses the "sentiment" (Positive/Negative) of the news, and reports them for general understanding of Spainish sentiment..|[![Project Link](https://img.shields.io/badge/Project-pink)](https://github.com/b-qt/news-monitor/blob/0f5131498c812e3e88f984d3f3e82191004977db/README.md) |
 
 
@@ -59,6 +59,6 @@ In November 2023, I started writing.
 |Company|Topic Description| Date|
 |---|---|---|
 |Infogr8| A look at code and no-code [tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/)| 08.11.23|
-|Dev.to|Explecation of thought process for [amazon reviews analysis](https://dev.to/lagomqb/analysis-of-a-reviews-dataset-15lc)|11.12.23|
+|Dev.to|Explecation of thought process for [amazon reviews analysis](https://dev.to/b-qt/analysis-of-a-reviews-dataset-15lc)|11.12.23|
 
-  You can 📫 [reach me](mailto:tebid.qb@gmail.com) to work on a project or just for a lovely chat.👯
+  You can 📫 [reach me](mailto:tebid.qb+github@gmail.com) to work on a project or just for a lovely chat.👯
