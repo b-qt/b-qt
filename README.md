@@ -26,7 +26,7 @@ Then, I went in for another MSc in FrontEnd Developement to get better at design
 |Project| Project Description| Project Link|
 |---|---|---|
 |Customer Insights with Amazon Reviews|This project involves analysing and understanding the emotion expressed in text data; determining the overall sentiment of a piece of text from amazon reviews.|[![Article Link](https://img.shields.io/badge/Article-purple)](https://dev.to/b-qt/analysis-of-a-reviews-dataset-15lc)|
-|Iberian Pulse |An automated pipeline that scrapes Spanish-language news headlines about Spain, assesses the "sentiment" (Positive/Negative) of the news, and reports them for general understanding of Spainish sentiment..|[![Project Link](https://img.shields.io/badge/Project-pink)](https://github.com/b-qt/news-monitor/blob/0f5131498c812e3e88f984d3f3e82191004977db/README.md) |
+|Iberian Pulse |An automated pipeline that scrapes Spanish-language news headlines about Spain, assesses the "sentiment" (Positive/Negative) of the news, and reports them for general understanding of Spainish sentiment..|[![Project Link](https://img.shields.io/badge/Project-pink)](https://github.com/b-qt/news-monitor/blob/main/README.md) |
 
 
 
