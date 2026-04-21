@@ -59,6 +59,7 @@ In November 2023, I started writing.
 |Company|Topic Description| Date|
 |---|---|---|
 |Infogr8| A look at code and no-code [tools for data visualization](https://infogr8.com/quinsy-brenda-navigating-tech-landscape-data-visualisation/)| 08.11.23|
-|Dev.to|Explecation of thought process for [amazon reviews analysis](https://dev.to/b-qt/analysis-of-a-reviews-dataset-15lc)|11.12.23|
+|Dev.to|Explication of thought process for [amazon reviews analysis](https://dev.to/b-qt/analysis-of-a-reviews-dataset-15lc)|11.12.23|
+|Dev.to| Rephrasing the [national narrative](https://dev.to/b-qt/rebuilding-the-national-narrative-with-ai-and-docker-16jj) about Real Estate, Tech and Economy |20.04.26|
 
   You can 📫 [reach me](mailto:tebid.qb+github@gmail.com) to work on a project or just for a lovely chat.👯
